@@ -1,0 +1,12 @@
+#charts {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  .chart {
+    margin: 0 20px;
+    width: 500px;
+    height: 300px;
+  }
